@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newTodo/static/css/main.b1c86751.css",
+    "main.js": "/newTodo/static/js/main.fcf95f12.js",
+    "static/js/787.63e47474.chunk.js": "/newTodo/static/js/787.63e47474.chunk.js",
+    "static/media/back.jpg": "/newTodo/static/media/back.dbfc19c605ce7fa7af16.jpg",
+    "index.html": "/newTodo/index.html",
+    "main.b1c86751.css.map": "/newTodo/static/css/main.b1c86751.css.map",
+    "main.fcf95f12.js.map": "/newTodo/static/js/main.fcf95f12.js.map",
+    "787.63e47474.chunk.js.map": "/newTodo/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c86751.css",
+    "static/js/main.fcf95f12.js"
+  ]
+}
